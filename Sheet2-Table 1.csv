@@ -1,0 +1,14 @@
+Source File;Shipment API Field;;;
+WEEK COM;;;;
+MONTH;;;;
+ORIGIN;Origin.CountryCode;;;
+ORIGIN CITY;Origin.City;;;
+DESTINATION  (DROP LIST);;;;
+MODE;;;;
+UNITS;;;;
+CARTON;;;;
+GOH UNITS;;;;
+TOTAL UNITS;;;;
+WEIGHT;;;;
+CBM;;;;
+TYPE;;;;
